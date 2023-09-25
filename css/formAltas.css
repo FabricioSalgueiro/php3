@@ -1,14 +1,12 @@
 body{
-    background-color: rgb(5, 5, 168);
     font-family: cursive
-    
 }
 
 .container{
     margin: 50px;
     display: flex;
     flex-direction: column;
-    background-color: rgb(5, 5, 168);
+    background-color: transparent;
     border-color: black;
   border-width: 10px;
   border-style: ridge;
